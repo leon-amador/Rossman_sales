@@ -30,7 +30,7 @@ The purpose of this project is starting a true data science experience and get n
 * seaborn 
 
 ## Project Description
-This is a projects based on Rossman data from kagle, the main task is forecasting the 'Sales' column, in order to do that, they provided us with  historical sales data for 1,115 Rossmann stores. The methodoly approach utilizada foi o CRISP, in which several study cycles are made, if necessary, in search of the best possible model within the client's needs. The main advantage of using CRISP is being able to provide the client product's versions more quickly, making the machine learning model more valuable to the customer.
+This is a projects based on Rossman data from kagle, the main task is forecasting the 'Sales' column, in order to do that, they provided us with  historical sales data for 1,115 Rossmann stores. The methodology approach utilized was CRISP, in which several study cycles are made, if necessary, in search of the best possible model within the client's needs. The main advantage of using CRISP is being able to provide the client product's versions more quickly, making the machine learning model more valuable to the customer.
 
 ## Steps of this projects
 
